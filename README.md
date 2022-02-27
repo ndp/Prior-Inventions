@@ -15,6 +15,7 @@ Last updated: February 2022
 - Ez-cal – Easily create iCalendars from URLs and codes
 - Sudoku – functional reactive sudoku experiments in TypeScript
 - Bad Ideas – board game
+- π-day t-shirt design
 - Bril – Brilliant code challenge
 - Nba visualizations – trades in the NBA visualized
 - Morph aka FotoTouch – photo retouching game
