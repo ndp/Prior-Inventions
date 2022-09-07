@@ -14,8 +14,9 @@ Last updated: February 2022
 - Cajoler – simple library to prompt user on page load
 - Ez-cal – Easily create iCalendars from URLs and codes
 - Sudoku – functional reactive sudoku experiments in TypeScript
-- Bad Ideas – board game
-- π-day t-shirt design
+- Bad Ideas – board game design and prototype
+- π-day t-shirt designs (2)
+- misc. t-shirt designs
 - Bril – Brilliant code challenge
 - Nba visualizations – trades in the NBA visualized
 - Morph aka FotoTouch – photo retouching game
