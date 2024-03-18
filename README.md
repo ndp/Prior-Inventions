@@ -1,6 +1,7 @@
 # Prior-Inventions
 
 Last updated: March 2023
+Latest version available at [https://github.com/ndp/Prior-Inventions]
 
 - GoToMyHead.site – search for Real Book charts. 2/2023
 – JazViz – various visualizations of jazz harmonies 3/2023
