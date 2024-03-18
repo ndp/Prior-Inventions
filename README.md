@@ -1,11 +1,12 @@
 # Prior-Inventions
 
 Last updated: March 2023
+
 Latest version available at [https://github.com/ndp/Prior-Inventions]
 
 - GoToMyHead.site – search for Real Book charts. 2/2023
-– JazViz – various visualizations of jazz harmonies 3/2023
-– drop-drop-box – automated command line tool to move files off of dropbox onto google photos 12/2022
+- JazViz – various visualizations of jazz harmonies 3/2023
+- drop-drop-box – automated command line tool to move files off of dropbox onto google photos 12/2022
 - ts-playground – experiments with types 2022/2023
 - Test pantry – Javascript Test Factory Sous Chef
 - Literate es webpack loader  – literate programming for ES6 Webpack Loader
