@@ -74,8 +74,8 @@ Latest version available at [https://github.com/ndp/Prior-Inventions]
 - Uscita - Data browser, Uscita provides a convenient interface for users to browse through large sets of data stored in SQL databases
 - phplib -- various object oriented tools for building web sites
 - usda -- web site providing access to the USDA food nutrients database
-- Blog posts: ndp.github.io, blog.ndpsoftware.com, ndpsoft.blogspot.com, 2000 - 2016
-- NDPSoftware.com web site and content, 2000 - 2016
+- Blog posts: ndp.github.io, blog.ndpsoftware.com, ndpsoft.blogspot.com, 2000 - 2024
+- NDPSoftware.com web site and content, 2000 - 2024
 - MacCVS Pro -- open source contributions
 - “An Assessment of the Uses of Auditory Icons Within a Direct Manipulation Interface.”  University of Oregon Honors College, June 1988.
 - A Collection of Essays on Contemporary Software Development Issues, March 1992. 
