@@ -1,10 +1,12 @@
 # Prior-Inventions
 
-Last updated: March 2023
+Last updated: March 2024
 
 Latest version available at [https://github.com/ndp/Prior-Inventions]
 
 - GoToMyHead.site – search for Real Book charts. 2/2023
+- [TS Service Worker](https://github.com/ndp-software/ts-service-worker) - Typescript service worker generator 3/2024
+- [TS Libs](https://github.com/ndp-software/ts-libs) - an assortment of Typescript libraries 2023
 - JazViz – various visualizations of jazz harmonies 3/2023
 - drop-drop-box – automated command line tool to move files off of dropbox onto google photos 12/2022
 - ts-playground – experiments with types 2022/2023
